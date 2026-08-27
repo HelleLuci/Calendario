@@ -145,10 +145,10 @@ export const listaDePets = [
     imagem: "https://cdn.pixabay.com/photo/2024/09/04/01/02/ai-generated-9020477_1280.jpg",
   },
   {
-    nome: "Duas Cabeças de Dragão",
+    nome: "Dois irmãos na floresta",
     raridade: "Raro",
     poema: "Duas lambidas para te dar, o dobro de amor para te curar.",
-    imagem: "https://cdn.pixabay.com/photo/2024/08/06/06/59/ai-generated-8948556_1280.jpg",
+    imagem: "https://cdn.pixabay.com/photo/2024/05/20/15/33/ai-generated-8775542_1280.jpg",
   },
   {
     nome: "Monstrinho de Grandes Olhos",
@@ -161,7 +161,7 @@ export const listaDePets = [
     nome: "Mini Gato feérico",
     raridade: "Místico",
     poema: "Não costumam ronronar, mas só querem seu carinho ganhar.",
-    imagem: "https://pixabay.com/images/download/jcoope12-ai-generated-9393391_1920.jpg",
+    imagem: "https://cdn.pixabay.com/photo/2025/02/08/21/37/ai-generated-9393391_1280.jpg",
   },
   {
     nome: "Dragão Filhote",
@@ -179,13 +179,13 @@ export const listaDePets = [
     nome: "Filhote de Pégaso",
     raridade: "Místico",
     poema: "Um dia as nuvens você vai tocar.",
-    imagem: "https://cdn.pixabay.com/photo/2024/04/07/15/50/unicorn-8681671_1280.png",
+    imagem: "",
   },
   {
     nome: "Mini Lagarto voador",
     raridade: "Místico",
     poema: "Olhar rápido no silêcio total, mas seu afeto é puro e real.",
-    imagem:"https://pixabay.com/images/download/jcoope12-ai-generated-9342371_1920.jpg"
+    imagem:"https://cdn.pixabay.com/photo/2025/01/25/19/04/ai-generated-9359597_1280.jpg",
   },
   {
     nome: "Tartaruga de Casco de Cristal",
@@ -194,10 +194,10 @@ export const listaDePets = [
     imagem: "https://cdn.pixabay.com/photo/2024/04/28/19/52/ai-generated-8726192_1280.jpg",
   },
   {
-    nome: "Pégaso de Bolso",
+    nome: "Fênix de Bolso",
     raridade: "Místico",
     poema: "Se o seu dia hoje virou poeira, amanhã você brilha de qualquer maneira.",
-    imagem: "https://pixabay.com/images/download/1tamara2-hands-8913508_1920.jpg",
+    imagem: "https://cdn.pixabay.com/photo/2025/02/13/21/14/ai-generated-9405123_1280.png",
   },
   {
     nome: "Felino Nuvem",
